@@ -1,4 +1,4 @@
-# 백준 문제 풀이
+# 백준 문제 회고
 
 https://www.acmicpc.net/problem/12728
 
