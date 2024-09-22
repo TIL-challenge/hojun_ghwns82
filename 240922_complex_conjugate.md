@@ -6,10 +6,6 @@ https://www.acmicpc.net/problem/12728
 
 ## 알게된 사실
 
-# 증명
-
-주변 지인으로부터 \( (3 - \sqrt{5}) \) 을 활용하라는 힌트를 받아서 고민해본 결과
-
 \[
 (3 + \sqrt{5})^N \text{을} \ a + b \times \sqrt{5} \ \text{이라고 하면}
 \]
